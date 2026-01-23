@@ -24,9 +24,10 @@ Always learning and building real-world DevOps projects.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
 
 ### ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+
 
 ---
 
