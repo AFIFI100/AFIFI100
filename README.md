@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm AFIFI100
 
-<!--
-**AFIFI100/AFIFI100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | CI/CD | Cloud | Automation
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-black?logo=gitlab)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
+![Ansible]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I do
+- Build CI/CD Pipelines
+- Containerize Apps with Docker
+- Deploy on AWS
+- Automate Infrastructure & Configurations
+
+## 🔗 Links
+- GitHub: https://github.com/AFIFI100
