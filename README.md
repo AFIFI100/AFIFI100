@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Afifi
+# 👋 Hi, I'm Mahmoud Afifi
 
 ## 🚀 DevOps Engineer
 Passionate about automation, CI/CD, and cloud-native solutions.  
