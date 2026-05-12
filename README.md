@@ -1,114 +1,67 @@
 # 👋 Hi, I'm Mahmoud Afifi
 
-## 🚀 Junior DevOps Engineer | Cloud & CI/CD Enthusiast
+## 🚀 DevOps Engineer
 
-Passionate about automation, CI/CD pipelines, cloud infrastructure, and building scalable systems using modern DevOps practices.
+Passionate about automation, CI/CD, and cloud-native solutions.  
+Always learning and building real-world DevOps projects.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ### 🖥️ OS & Scripting
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-</p>
-
-- Linux (Ubuntu / CentOS)
-- Bash Scripting & Automation
-
----
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
 
 ### 🐳 Containers & Orchestration
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-black?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-black?logo=helm)
 
-- Docker
-- Docker Compose
-- Kubernetes (Deployments, Services, Ingress, ConfigMaps, Secrets)
-- Helm (Basics)
+### 🔁 CI/CD
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-black?logo=gitlab)
 
----
+### ☁️ Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
 
-### 🔁 CI/CD & Version Control
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-black?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana)
+![ELK](https://img.shields.io/badge/ELK_Stack-black)
 
-- Git & GitHub
-- GitLab CI/CD
-- GitHub Actions
-- Jenkins (Basics)
 
 ---
 
-### ☁️ Cloud & Infrastructure as Code (IaC)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
-</p>
-
-- AWS (EC2, S3, IAM, VPC, EKS basics)
-- Terraform (Infrastructure as Code)
-- Ansible (Configuration Management)
+### 🏗️ 3-Tier Architecture Project
+- Designed and deployed 3-tier application (Frontend, Backend, Database)
+- Dockerized services and connected via internal networking
+- Implemented basic CI/CD pipeline for deployment
+- Focus on scalability and separation of concerns
+- Deployed on cloud environment using AWS
 
 ---
 
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
-</p>
-
-- Prometheus
-- Grafana
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-
----
-
-## 📂 Featured Projects
-
-### 🛒 E-Commerce DevOps Project
-- Dockerized full-stack application
-- CI/CD pipeline using GitHub Actions
-- Kubernetes deployment
-- Terraform infrastructure on AWS
-
----
-
-### ⚙️ CI/CD Automation Pipeline
-- Automated build/test/deploy workflow
-- GitHub Actions + Docker registry
-- Reduced deployment time significantly
-
----
-
-### ☁️ AWS Infrastructure Project
-- Built VPC, EC2, IAM using Terraform
-- Automated provisioning with Ansible
-- Secure cloud architecture basics
-
----
-
-## 🎯 Focus Areas
-- CI/CD Pipeline Design
+## 🎯 DevOps Focus Areas
+- CI/CD Pipeline Design & Optimization
 - Infrastructure as Code (IaC)
-- Kubernetes & Containers
-- AWS Cloud Deployment
-- Automation & Reliability
+- Containerization & Orchestration
+- Cloud Deployment (AWS)
+- Automation & System Reliability
 
 ---
 
 ## 📈 Currently Learning
 - Advanced Kubernetes (Networking, Scaling, Helm)
-- AWS EKS
+- AWS EKS Deep Dive
 - GitOps with ArgoCD
-- Production CI/CD patterns
+- Production-grade CI/CD patterns
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/AFIFI100
+- GMAIL: mafifi953@gmail.com
