@@ -1,41 +1,112 @@
 # 👋 Hi, I'm Mahmoud Afifi
 
-## 🚀 DevOps Engineer
-Passionate about automation, CI/CD, and cloud-native solutions.  
-Always learning and building real-world DevOps projects.
+## 🚀 Junior DevOps Engineer | Cloud & CI/CD Enthusiast
+
+Passionate about automation, CI/CD pipelines, cloud infrastructure, and building scalable systems using modern DevOps practices.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ### 🖥️ OS & Scripting
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</p>
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker--Compose-black?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)
-
-### 🔁 CI/CD
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-black?logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
-
-### ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
-
+- Linux (Ubuntu / CentOS)
+- Bash Scripting & Automation
 
 ---
 
-## 📌 What I'm Currently Working On
-- Building CI/CD pipelines
-- Containerizing applications
-- Learning Kubernetes deeply
-- Deploying apps on AWS
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+</p>
+
+- Docker
+- Docker Compose
+- Kubernetes (Deployments, Services, Ingress, ConfigMaps, Secrets)
+- Helm (Basics)
+
+---
+
+### 🔁 CI/CD & Version Control
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+- Git & GitHub
+- GitLab CI/CD
+- GitHub Actions
+- Jenkins (Basics)
+
+---
+
+### ☁️ Cloud & Infrastructure as Code (IaC)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+</p>
+
+- AWS (EC2, S3, IAM, VPC, EKS basics)
+- Terraform (Infrastructure as Code)
+- Ansible (Configuration Management)
+
+---
+
+### 📊 Monitoring & Observability
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+</p>
+
+- Prometheus
+- Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce DevOps Project
+- Dockerized full-stack application
+- CI/CD pipeline using GitHub Actions
+- Kubernetes deployment
+- Terraform infrastructure on AWS
+
+---
+
+### ⚙️ CI/CD Automation Pipeline
+- Automated build/test/deploy workflow
+- GitHub Actions + Docker registry
+- Reduced deployment time significantly
+
+---
+
+### ☁️ AWS Infrastructure Project
+- Built VPC, EC2, IAM using Terraform
+- Automated provisioning with Ansible
+- Secure cloud architecture basics
+
+---
+
+## 🎯 Focus Areas
+- CI/CD Pipeline Design
+- Infrastructure as Code (IaC)
+- Kubernetes & Containers
+- AWS Cloud Deployment
+- Automation & Reliability
+
+---
+
+## 📈 Currently Learning
+- Advanced Kubernetes (Networking, Scaling, Helm)
+- AWS EKS
+- GitOps with ArgoCD
+- Production CI/CD patterns
 
 ---
 
